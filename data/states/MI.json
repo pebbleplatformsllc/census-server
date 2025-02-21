@@ -1,0 +1,270 @@
+{
+    "0": {
+        "label": "Population estimates, July 1, 2024, (V2024)",
+        "value": "10,140,459"
+    },
+    "1": {
+        "label": "Population estimates, July 1, 2023, (V2023)",
+        "value": "10,037,261"
+    },
+    "2": {
+        "label": "Population estimates base, April 1, 2020, (V2024)",
+        "value": "10,079,338"
+    },
+    "3": {
+        "label": "Population estimates base, April 1, 2020, (V2023)",
+        "value": "10,077,674"
+    },
+    "4": {
+        "label": "Population, percent change - April 1, 2020 (estimates base) to July 1, 2024, (V2024)",
+        "value": "0.6"
+    },
+    "5": {
+        "label": "Population, percent change - April 1, 2020 (estimates base) to July 1, 2023, (V2023)",
+        "value": "-0.4"
+    },
+    "6": {
+        "label": "Population, Census, April 1, 2020",
+        "value": "10,077,331"
+    },
+    "7": {
+        "label": "Population, Census, April 1, 2010",
+        "value": "9,883,640"
+    },
+    "8": {
+        "label": "Persons under 5 years, percent",
+        "value": "5.3"
+    },
+    "9": {
+        "label": "Persons under 18 years, percent",
+        "value": "21.0"
+    },
+    "10": {
+        "label": "Persons 65 years and over, percent",
+        "value": "19.2"
+    },
+    "11": {
+        "label": "Female persons, percent",
+        "value": "50.4"
+    },
+    "12": {
+        "label": "White alone, percent",
+        "value": "78.7"
+    },
+    "13": {
+        "label": "Black alone, percent (a)",
+        "value": "14.1"
+    },
+    "14": {
+        "label": "American Indian and Alaska Native alone, percent (a)",
+        "value": "0.8"
+    },
+    "15": {
+        "label": "Asian alone, percent (a)",
+        "value": "3.6"
+    },
+    "16": {
+        "label": "Native Hawaiian and Other Pacific Islander alone, percent (a)",
+        "value": "Z"
+    },
+    "17": {
+        "label": "Two or More Races, percent",
+        "value": "2.8"
+    },
+    "18": {
+        "label": "Hispanic or Latino, percent (b)",
+        "value": "6.0"
+    },
+    "19": {
+        "label": "White alone, not Hispanic or Latino, percent",
+        "value": "73.7"
+    },
+    "20": {
+        "label": "Veterans, 2019-2023",
+        "value": "479,115"
+    },
+    "21": {
+        "label": "Foreign-born persons, percent, 2019-2023",
+        "value": "7.0"
+    },
+    "22": {
+        "label": "Housing Units, July 1, 2023, (V2023)",
+        "value": "4,643,473"
+    },
+    "23": {
+        "label": "Owner-occupied housing unit rate, 2019-2023",
+        "value": "72.9"
+    },
+    "24": {
+        "label": "Median value of owner-occupied housing units, 2019-2023",
+        "value": "217,600"
+    },
+    "25": {
+        "label": "Median selected monthly owner costs - with a mortgage, 2019-2023",
+        "value": "1,521"
+    },
+    "26": {
+        "label": "Median selected monthly owner costs -without a mortage, 2019-2023",
+        "value": "587"
+    },
+    "27": {
+        "label": "Median gross rent, 2019-2023",
+        "value": "1,084"
+    },
+    "28": {
+        "label": "Building Permits, 2023",
+        "value": "20,592"
+    },
+    "29": {
+        "label": "Households, 2019-2023",
+        "value": "4,040,168"
+    },
+    "30": {
+        "label": "Persons per household, 2019-2023",
+        "value": "2.43"
+    },
+    "31": {
+        "label": "Living in the same house 1 year ago, percent of persons age 1 year+ ,  2019-2023",
+        "value": "88.4"
+    },
+    "32": {
+        "label": "Language other than English spoken at home, percent of persons age 5 years+, 2019-2023",
+        "value": "10.2"
+    },
+    "33": {
+        "label": "Households with a computer, percent, 2019-2023",
+        "value": "94.4"
+    },
+    "34": {
+        "label": "Households with a broadband Internet subscription, percent, 2019-2023",
+        "value": "89.3"
+    },
+    "35": {
+        "label": "High school graduate or higher, percent of persons age 25 years+, 2019-2023",
+        "value": "91.9"
+    },
+    "36": {
+        "label": "Bachelor's degree or higher, percent of persons age 25 years+, 2019-2023",
+        "value": "31.8"
+    },
+    "37": {
+        "label": "With a disability, under age 65 years, percent, 2019-2023",
+        "value": "10.3"
+    },
+    "38": {
+        "label": "Persons without health insurance, under age 65 years, percent",
+        "value": "5.5"
+    },
+    "39": {
+        "label": "In civilian labor force, total, percent of population age 16 years+, 2019-2023",
+        "value": "61.3"
+    },
+    "40": {
+        "label": "In civilian labor force, female, percent of population age 16 years+, 2019-2023",
+        "value": "57.3"
+    },
+    "41": {
+        "label": "Total accommodation and food services sales, 2022 ($1,000)",
+        "value": "28,012,061"
+    },
+    "42": {
+        "label": "Total health care and social assistance receipts/revenue, 2022 ($1,000)",
+        "value": "94,603,501"
+    },
+    "43": {
+        "label": "Total transportation and warehousing receipts/revenue, 2022 ($1,000)",
+        "value": "35,592,313"
+    },
+    "44": {
+        "label": "Total retail sales, 2022 ($1,000)",
+        "value": "190,534,346"
+    },
+    "45": {
+        "label": "Total retail sales per capita, 2022",
+        "value": "18,990"
+    },
+    "46": {
+        "label": "Mean travel time to work (minutes), workers age 16 years+, 2019-2023",
+        "value": "24.4"
+    },
+    "47": {
+        "label": "Median households income (in 2023 dollars), 2019-2023",
+        "value": "71,149"
+    },
+    "48": {
+        "label": "Per capita income in past 12 months (in 2023 dollars), 2019-2023",
+        "value": "39,538"
+    },
+    "49": {
+        "label": "Persons in poverty, percent",
+        "value": "13.5"
+    },
+    "50": {
+        "label": "Total employer establishments, 2022",
+        "value": "227,870"
+    },
+    "51": {
+        "label": "Total employment, 2022",
+        "value": "3,939,076"
+    },
+    "52": {
+        "label": "Total annual payroll, 2022 ($1,000)",
+        "value": "232,710,964"
+    },
+    "53": {
+        "label": "Total employment, percent change, 2021-2022",
+        "value": "4.5"
+    },
+    "54": {
+        "label": "Total nonemployer establishments, 2022",
+        "value": "809,426"
+    },
+    "55": {
+        "label": "All employer firms, Reference year 2022",
+        "value": "163,220"
+    },
+    "56": {
+        "label": "Men-owned employer firms, Reference year 2022",
+        "value": "106,444"
+    },
+    "57": {
+        "label": "Women-owned employer firms, Reference year 2022",
+        "value": "31,497"
+    },
+    "58": {
+        "label": "Minority-owned employer firms, Reference year 2022",
+        "value": "16,643"
+    },
+    "59": {
+        "label": "Nonminority-owned employer firms, Reference year 2022",
+        "value": "136,115"
+    },
+    "60": {
+        "label": "Veteran-owned employer firms, Reference year 2022",
+        "value": "5,465"
+    },
+    "61": {
+        "label": "Nonveteran-owned employer firms, Reference year 2022",
+        "value": "146,553"
+    },
+    "62": {
+        "label": "Population per square mile, 2020",
+        "value": "178.0"
+    },
+    "63": {
+        "label": "Population per square mile, 2010",
+        "value": "174.8"
+    },
+    "64": {
+        "label": "Land area in square miles, 2020",
+        "value": "56,608.22"
+    },
+    "65": {
+        "label": "Land area in square miles, 2010",
+        "value": "56,538.90"
+    },
+    "66": {
+        "label": "FIPS Code",
+        "value": "\"26\""
+    }
+}

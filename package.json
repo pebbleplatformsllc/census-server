@@ -1,0 +1,15 @@
+{
+  "name": "census-api",
+  "version": "1.0.0",
+  "description": "A Node.js server to serve census data for charts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
