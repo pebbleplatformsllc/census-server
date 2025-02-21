@@ -1,8 +1,8 @@
 /****************************************************
  * server.js
  * A dynamic Express server for Census data with
- * advanced grouping, normalized keys, and "X" values
- * converted to null.
+ * advanced grouping, normalized keys, and "X"/"NA"/"S"
+ * values converted to null.
  ****************************************************/
 const express = require("express");
 const fs = require("fs");
@@ -47,14 +47,13 @@ function getDataFromFile(filePath) {
 // -----------------------------------------------------
 function transformCensusDataDeep(rawData) {
   // Utility to parse a value into a number if possible.
-  // If the value is "X", return null; if it's "NA" or "S", return the original string.
+  // If the value is "X", "NA", or "S", return null.
   const parseNumber = (value) => {
     if (!value) return null;
     const trimmed = value.trim().toUpperCase();
-    if (trimmed === "X") return null;
-    if (trimmed === "NA" || trimmed === "S") return value;
+    if (trimmed === "X" || trimmed === "NA" || trimmed === "S") return null;
     const num = Number(value.replace(/,/g, ""));
-    return isNaN(num) ? value : num;
+    return isNaN(num) ? null : num;
   };
 
   // ---------------------------
